@@ -132,3 +132,4 @@ dmypy.json
 workspace/models/my_ssd_resnet50_v1_fpn/*
 workspace/pre-trained-models/*
 models/*
+workspace/nvmm
